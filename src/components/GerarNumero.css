@@ -1,0 +1,16 @@
+.GerarNumero input {
+    font-size: 1.4rem;
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+}
+
+.GerarNumero button {
+    margin: 5px;
+    height: 40px;
+    width: 250px;
+    border-radius: 5%;
+    background-color: #1499D3;
+    color: #fff;
+    font-size: 1.3rem;
+}
